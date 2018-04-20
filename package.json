@@ -1,0 +1,9 @@
+{
+  "name": "migratum-dummy",
+  "version": "0.1.0",
+  "description": "Fake migratum driver",
+  "main": "index.js",
+  "repository": "git@github.com:yhaskell/migratum-dummy.git",
+  "author": "Igor N. Dultsev <dultsev.igor@gmail.com>",
+  "license": "MIT"
+}
